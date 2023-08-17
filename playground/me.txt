@@ -1,0 +1,3 @@
+Name: Fidha Rafeeque N
+Skills: HTML, CSS, JavaScript, Node.js, ReactJS, MongoDb, SQL, BootStrap, Tailwind CSS
+Email: fidharafeequen@gmail.com
